@@ -14,24 +14,24 @@ Has it been purpose-built to address emerging trends of Security , IoT , Mobilit
 What has it been purpose-built to address emerging trends of security , iot , mobility and cloud ?
 Has it been purpose-built to address emerging trends of Security , IoT , Mobility , and Cloud ?
 What has it been purpose-built to address emerging trends of security , iot , mobility , and cloud ?
-Vb Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
+Do Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
 Which switches vb catalyst series switches deliver complete convergence in terms of asic architecture with a unified access data plane ( uadp ) 2.0 ?
-Vb Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
+Do Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
 Which switches vb catalyst 9300 series switches deliver complete convergence in terms of asic architecture with a unified access data plane ( uadp ) 2.0 ?
-Vb Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
+Do Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
 Which switches vb catalyst 9300 series deliver complete convergence in terms of asic architecture with a unified access data plane ( uadp ) 2.0 ?
-Vb Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
+Do Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
 What architecture vb catalyst 9300 series switches deliver complete convergence in terms of asic with a unified access data plane ( uadp ) 2.0 ?
-Vb Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
+Do Catalyst 9300 Series Switches deliver complete convergence in terms of ASIC architecture with a Unified Access Data Plane ( UADP ) 2.0 ?
 What architecture vb catalyst 9300 series switches deliver complete convergence in terms of asic architecture with a unified access data plane ( uadp ) 2.0 ?
 Has platform runs an Open Cisco IOS XE that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 CPU architecture , local storage , and a higher memory footprint ) ?
-Which product has platform runs an open cisco the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 cpu architecture , local storage , and a higher memory footprint ) ?
-Has platform runs an Open Cisco IOS XE that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 CPU architecture , local storage , and a higher memory footprint ) ?
+Which product has platform runs an open cisco the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of cx86 cpu architecture , local storage , and a higher memory footprint ) ?
+Has platform runs an Open Cisco IOS XE that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of cx86 CPU architecture , local storage , and a higher memory footprint ) ?
 Which product has platform runs an open cisco ios the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 cpu architecture , local storage , and a higher memory footprint ) ?
 Has platform runs an Open Cisco IOS XE that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 CPU architecture , local storage , and a higher memory footprint ) ?
 Which product has platform runs an open cisco ios xe the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 cpu architecture , local storage , and a higher memory footprint ) ?
 Has platform runs an Open Cisco IOS XE that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 CPU architecture , local storage , and a higher memory footprint ) ?
-What architecture has platform runs an open cisco ios xe that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of x86 cpu local storage , and a higher memory footprint ) ?
+What architecture has platform runs an open cisco ios xe that support model driven programmability , the capacity to host containers , and run 3rd party applications and scripts natively within the switch ( by virtue of cx86 cpu local storage , and a higher memory footprint ) ?
 Is series forms the foundational building block for SD-Access , which Cisco ’ s lead enterprise architecture ?
 What architecture is series forms the foundational building block for sd-access , which cisco ’ s lead enterprise architecture ?
 Do series offer 1Gigabit copper Ethernet switches with 80G uplink bandwidth , Multigigabit Ethernet switches , and the industry ’ s highest 480 Gigabit stacking bandwidth solution ?
