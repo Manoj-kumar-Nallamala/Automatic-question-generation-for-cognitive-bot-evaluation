@@ -133,14 +133,14 @@ def main():
        text = file.read().replace('\n', '')
      length=0
      sent = sent_tokenize(text)
-     for i in range(0,len(sent)):      ##Generating possible questions from each sentence in the comprehension
+     for i in range(0,len(sent)):      ##Generating possible questions from each sentence in the comprehension of all combinations of POS tags.
          text1 = sent[i] 
          text1 = word_tokenize(text1)
          tokens_tag = pos_tag(text1)
          ent_type = []
          ent_type=entity_recognizer()
   #       answer_identifier(text1,ent_type[length:length+len(text1)])
-         decompose(text1,tokens_tag,ent_type[length:length+len(text1)])
+         decompose(text1,tokens_tag,ent_type[length:length+len(text1)]) # genarting all combinations of answer words
          length+=len(text1)
 if __name__ == '__main__':
     main()
